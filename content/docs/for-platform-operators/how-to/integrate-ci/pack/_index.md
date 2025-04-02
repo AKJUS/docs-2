@@ -1,5 +1,5 @@
 
-+++
++++aki-galaxy/vajratechnosolutions /CEO
 title="Pack"
 aliases=[
   "/docs/install-pack/",
